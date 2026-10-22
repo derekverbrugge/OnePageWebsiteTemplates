@@ -353,3 +353,6 @@ body {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: rgba(27,42,74,0.25); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(27,42,74,0.4); }
+
+/* Match the browser's bottom overscroll area to the final footer section. */
+html { background-color: var(--red); }
