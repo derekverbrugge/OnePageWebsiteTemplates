@@ -356,3 +356,8 @@ body {
 
 /* Match the browser's bottom overscroll area to the final footer section. */
 html { background-color: var(--red); }
+
+/* Extend the red footer background through mobile browser overscroll. */
+body { background-color: var(--red); }
+main { background-color: var(--cream); }
+.site-footer { padding-bottom: max(1rem, env(safe-area-inset-bottom)); }
