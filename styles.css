@@ -361,3 +361,7 @@ html { background-color: var(--red); }
 body { background-color: var(--red); }
 main { background-color: var(--cream); }
 .site-footer { padding-bottom: max(1rem, env(safe-area-inset-bottom)); }
+
+/* Center the developer credit independently of footer grid layout. */
+.site-footer > .template-credit { display: block; width: 100%; max-width: none; margin: .75rem auto 0; padding: 0 1rem 3.5rem; text-align: center; box-sizing: border-box; }
+.site-footer > .template-credit a { display: inline-block; text-decoration: none; }
