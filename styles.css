@@ -365,3 +365,7 @@ main { background-color: var(--cream); }
 /* Center the developer credit independently of footer grid layout. */
 .site-footer > .template-credit { display: block; width: 100%; max-width: none; margin: .75rem auto 0; padding: 0 1rem 3.5rem; text-align: center; box-sizing: border-box; }
 .site-footer > .template-credit a { display: inline-block; text-decoration: none; }
+
+/* Full-width centered footer attribution on mobile and desktop. */
+.site-footer > p.template-credit { display:block !important; position:relative; left:auto; right:auto; width:100% !important; max-width:none !important; margin:0.75rem 0 0 !important; padding:0 16px 56px !important; box-sizing:border-box; text-align:center !important; }
+.site-footer > p.template-credit > a { display:inline !important; text-decoration:none !important; }
