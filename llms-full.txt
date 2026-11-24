@@ -1,0 +1,25 @@
+# OnePageWebsiteTemplates
+
+## GitHub Templates
+Source: https://derekverbrugge.github.io/OnePageWebsiteTemplates/
+
+One-page
+Starter Templates
+Mobile-responsive one-page project starters — fork, clone, and build. No PHP, just simple JavaScript, HTML, and CSS.
+Every template has a demo link in the README and is published with GitHub Pages.
+Header and Footer Template
+Developed with ChatGPT.
+Commented
+Vision Campaign Template
+Developed with ChatGPT.
+Dark, Lightbeam
+Purple Campaign Template
+Developed with ChatGPT.
+Light, Purple, Yellow
+Gold Smith Template
+Developed with ChatGPT.
+Dark, Green, Orange
+Motorist Template
+Developed with ChatGPT.
+Dark, Yellow
+Show More Templates

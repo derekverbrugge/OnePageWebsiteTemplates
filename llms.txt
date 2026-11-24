@@ -1,0 +1,5 @@
+# OnePageWebsiteTemplates
+
+- [GitHub Templates](https://derekverbrugge.github.io/OnePageWebsiteTemplates/)
+
+[Full text](https://derekverbrugge.github.io/OnePageWebsiteTemplates/llms-full.txt)
